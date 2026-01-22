@@ -3,6 +3,8 @@
 ### I'm interested in:
 - Full stack development
 - Open source software
+- Computational Biology & Bioinformatics
+- Data Analysis & Visualization
 
 ### Tech stack:
 #### Languages
